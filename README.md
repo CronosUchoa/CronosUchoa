@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hi there!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ``` C
 #include<stdio.h>
@@ -32,7 +32,7 @@ int main(void){
 My name is Gabriel Henrique, but you can call me Cronos Uchoa.
 The only constant is change! ⌛🐺
 
-## Skills 🐺
+## Skills🦉🐺
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
