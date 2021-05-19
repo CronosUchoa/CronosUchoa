@@ -30,7 +30,7 @@ int main(void){
 
 ```
 My name is Gabriel Henrique, but you can call me Cronos Uchoa.
-The only constant is change!
+The only constant is change! ⌛🐺
 
 ## Skills 🐺
 <p align="center">
