@@ -32,7 +32,7 @@ int main(void){
 My name is Gabriel Henrique, but you can call me Cronos Uchoa.
 The only constant is change!
 
-## Skills :nerd_face:
+## Skills 🐺
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,7 +60,7 @@ The only constant is change!
    
 </p>
 
-## Contact 
+## Contact 🐺
 
 <p align="center">
     <a href="https://github.com/CronosUchoa">
@@ -78,7 +78,7 @@ The only constant is change!
 
 <p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Total de Visitas no perfil 🐺 <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/CronosUchoa/count.svg" />
  </p>
