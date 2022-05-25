@@ -57,6 +57,8 @@ The only constant is change! ⌛🐺
    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" >
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" >
    
 </p>
 
